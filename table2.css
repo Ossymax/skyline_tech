@@ -1,0 +1,41 @@
+
+/* THIS IS MY CSS CODES FOR TABLE2 */
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+table, th, td{
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 20px;
+}
+
+table{
+    width: 100%;
+    margin: auto;
+}
+
+
+td{
+    padding: 12px;
+}
+
+th{
+    background-color: dodgerblue;
+    color: white;
+    padding: 15px;
+}
+
+
+caption{
+    font-weight: bold;
+}
+
+
+
+input{
+    padding: 3px 10px;
+}
