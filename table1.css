@@ -1,0 +1,49 @@
+
+
+/* this is my css code for table 1 */
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+table, th, td{
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+    border: none;
+    border-bottom: 1px solid;
+    
+}
+
+table{
+    width: 100%;
+    font-size: 20px;
+}
+
+td{
+    padding: 20px;
+}
+
+th{
+    background-color:dodgerblue;
+    color: white;
+    padding: 15px;
+}
+
+caption{
+    font-weight: bold;
+}
+
+
+
+.tick{
+    color: rgb(7, 94, 7);
+    border-radius: 6px;
+}
+
+
+.ex{
+    color: red;
+}
