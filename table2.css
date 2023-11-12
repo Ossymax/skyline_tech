@@ -39,3 +39,9 @@ caption{
 input{
     padding: 3px 10px;
 }
+
+
+
+tr:nth-child(even){
+    background-color: lightgrey;
+}
